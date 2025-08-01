@@ -1,3 +1,7 @@
 bug fix A
+one line of code
 bug fix B
+another line of code
+oops, i introduced and issue here n.n'
 bug fix C
+last line of code
